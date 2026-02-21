@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Sun
+  given-names: Youping
+orcid: https://orcid.org/0009-0004-9199-8757
+title:SYPECNU/Inactive-individuals: Dataset for [Artificial Intelligence-Based Exploration of the Relationship between Running Motion Patterns and Achilles Tendon Stress in Inactive Adults Initiating a Running Program]
+version: v1.0
+date-released: 2026-02-21
